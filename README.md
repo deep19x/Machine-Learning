@@ -1,5 +1,8 @@
 # Machine Learning Assignments
 
+**Name:** Deepinder Singh Saini
+**Roll Number:** 102303673
+
 This repository contains weekly assignment submissions for my Machine Learning course.
 
 ## 📄 Files
